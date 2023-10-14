@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>project genesis</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+    <link rel ="stylesheet" href="{{ asset('style.css') }}">
+</head>
+
+<section class="header">
+        <div class="container">
+        <img src="images/logo-removebg-preview.png" alt="real estates">
+        <button type="button" class="login-btn">login</button>
+        <h1 >Inhouse viewing</h1>
+        <p>spacious bungalows around malibu estate to let with big spacious rooms free access to electricity and water is available 24/7 join us in our visit in our weekly customer exposure around the houses</p>
+         <div class="input-group">
+            <input type="text" class="form-control" placeholder="look for your ensuite">
+            <div class="input-group-append">
+                <button type="button" class="input-group-text btn">search</button>
+            </div>
+         </div>
+    </div>
+   </section><body>
+   <
+   <section class="varieties">
+    <h1>varieties available</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <div class="varieties-box">
+                    <div class="varieties-img">
+                        <img src="images/download.jpeg" alt="estate">
+                    
+                    <div class="rent">
+                        <p>$6500 per month</p>
+                    </div>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+
+
+                        </div>
+                    </div>
+                    <div class="varieties-details">
+                        <h4>Heading varieties</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum laboriosam veniam ex voluptatum maxime qui incidunt quaerat ad neque distinctio totam magni nesciunt, ea, tempore dicta voluptate saepe quae reprehenderit!</p>
+                    </div>
+                    <span>map maker , moon calendar text</span>
+                </div>
+            </div>
+            
+            <div class="col-md-4">
+                <div class="varieties-box">
+                    <div class="varieties-img">
+                        <img src="images/image3.jpeg" alt="estate">
+                    
+                    <div class="rent">
+                        <p>$7600per month</p>
+                    </div>
+                        <div class="rating">
+
+                        </div>
+                    </div>
+                    <div class="varieties-details">
+                        <h4>Heading varieties</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum laboriosam veniam ex voluptatum maxime qui incidunt quaerat ad neque distinctio totam magni nesciunt, ea, tempore dicta voluptate saepe quae reprehenderit!</p>
+                    </div>
+                    <span>map maker , moon calendar text</span>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="varieties-box">
+                    <div class="varieties-img">
+                        <img src="images/image4.jpeg" alt="estate">
+                    
+                    <div class="rent">
+                        <p>$6900 per month</p>
+                    </div>
+                        <div class="rating">
+
+                        </div>
+                     </div>
+                    <div class="varieties-details">
+                        <h4>Heading varieties</h4>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum laboriosam veniam ex voluptatum maxime qui incidunt quaerat ad neque distinctio totam magni nesciunt, ea, tempore dicta voluptate saepe quae reprehenderit!</p>
+                    </div>
+                    <span>map maker , moon calendar text</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+   </section>
+   <section class="gallery">
+    <h1>bungalow showroom</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="gallery-box">
+                    <img src="images/brunomars.jpeg" alt="brunomars">
+                    <h4>brunomars</h4>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="gallery-box">
+                    <img src="images/megan2.jpeg" alt="brunomars">
+                    <h4>megan</h4>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="gallery-box">
+                    <img src="images/ayra.jpeg" alt="brunomars">
+                    <h4>ayra</h4>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="gallery-box">
+                    <img src="images/nikita.jpeg" alt="brunomars">
+                    <h4>nikita</h4>
+                </div>
+            </div>
+        </div>
+    </div>
+   </section>
+   <section class="banner">
+    <div class="banner-highlights">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <h1>Early booking</h1>
+                    <p>mega offers</p>
+                </div>
+                <div class="col-md-4">
+                    <button type="button" class="booking-btn">Book</button>
+                </div>
+            </div>
+        </div>
+    </div>
+   </section>
+   <section class="residents-feedback">
+        <h1>residents comment</h1>
+        <div class="container">
+            <div class="row">
+                
+                <div class="col-md-4">
+                    <div class="residents-review">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus rerum perferendis porro illum adipisci ducimus fuga ut aliquid doloribus, beatae numquam ratione quibusdam, corrupti eligendi, tenetur nesciunt nisi excepturi facilis?</p>
+                        <h5>zafanana</h5>
+                        <small>karatina</small>
+                    </div>
+                    <img src="images/image5.jpeg" alt="">
+                </div>
+                <div class="col-md-4">
+                    <div class="residents-review">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus rerum perferendis porro illum adipisci ducimus fuga ut aliquid doloribus, beatae numquam ratione quibusdam, corrupti eligendi, tenetur nesciunt nisi excepturi facilis?</p>
+                        <h5>westlands</h5>
+                        <small>nairobi</small>
+                    </div>
+                    <img src="images/image6.jpeg" alt="">
+                </div>
+                <div class="col-md-4">
+                    <div class="residents-review">
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus rerum perferendis porro illum adipisci ducimus fuga ut aliquid doloribus, beatae numquam ratione quibusdam, corrupti eligendi, tenetur nesciunt nisi excepturi facilis?</p>
+                        <h5>landless</h5>
+                        <small>muthaiga</small>
+                    </div>
+                    <img src="images/image7.jpeg" alt="">
+                </div>
+            </div>
+        </div>
+   </section>
+   <section class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <img src="images/logo-removebg-preview.png" alt="footer.logo">
+            </div>
+            <div class="col-md-3">
+                <h4>features</h4>
+                <p>deals&offers</p>
+                <p>resident contact</p>
+                <p>policy&rights</p>
+
+            </div>
+            <div class="col-md-3">
+                <h4> Quick contact</h4>
+
+            </div>
+            <div class="col-md-3">
+                <p>copyright</p>
+            </div>
+            <hr>
+        </div>
+    </div>
+   </section>
+</body>
+</html>

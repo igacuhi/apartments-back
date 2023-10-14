@@ -1,0 +1,268 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.header
+{     
+    height: 100vh;
+    background-image: linear-gradient( rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url(images/header1.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color:  #fff;
+}
+.header img
+{
+    width: 100px;
+    float: left;
+}
+.login-btn
+{
+    width:100px;
+    padding: 8px 0;
+    outline: none !important;
+    background: transparent;
+    border:2px solid #fff;
+    border-radius: 25px;
+    color: #fff;
+    float:right;
+}
+.login-btn:hover
+{
+    background-color: rgba(180, 169, 8, 0.4);
+    border-style: none;
+}
+.header h1
+{
+        padding-top: 50px;
+        padding-bottom: 0;
+        font-size: 42px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+
+
+}
+.header p
+{
+    margin: 19px 0;
+    font-size: 20px ;
+    text-align: left;
+
+}
+.input-group
+{
+    width: 90%;
+    max-width: 500px;
+    border-radius: 30px;
+    background:  #fff;
+    margin: auto;
+    padding: 0px;
+}
+.form-control
+{
+    border: 0 !important;
+    border-radius:  30px 0  0 30px !important;
+    margin: 2px;
+    box-shadow: none;
+}
+.input-group-append
+{
+    background-color: rgba(180, 169, 8, 0.4);
+    border-radius: 100px;
+    padding: 4 20px;
+    border-radius: 20px !important;
+    box-shadow: none !important;
+}
+.varieties
+{
+    padding: 0;
+    text-align: center;
+    padding: 30px;
+
+}
+.varities h1
+{
+    text-align: center;
+    padding-bottom: 400px;
+}
+.varieties-img img
+{
+    width: 100%;
+    height: 250px;
+    
+
+}
+.rent
+{
+    width : 50 px;
+    height: 50px;
+    background : #ff5722;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 50px;
+    padding: 10px;
+    box-shadow: 0 0 10px 1px  rgba(37,73,214,0.18);
+    position: absolute;
+    left: 20px;
+    bottom: -25px;
+}
+.varieties-img
+{
+    position: relative;
+}
+.rating
+{
+    padding: 3px;
+    float: right;
+    background: #fff;
+    bottom: -1px;
+    right: 0;
+    position: absolute;
+}
+.varieties-details
+{
+
+    text-align: center;
+    padding: 20px;
+}
+.varieties-details h4
+{
+    font-weight: 600;
+    margin-top: 20px;
+}
+.varieties-box
+{
+    box-shadow: 0 0 10px 1px rgba(red,green, blue,alpha);
+    margin-bottom: auto;
+
+}
+.gallery
+{
+    padding: 100px 0;
+    background: #efefef;
+    
+}
+.gallery-box img
+{
+    width: 100%;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 1s;
+    height: 200px;
+}
+.gallery-box img:hover
+{
+    transform: scale(1.1);
+}
+.gallery-box 
+{
+    position: relative;
+    margin-bottom: 30px;
+}
+.gallery-box h4
+{
+    width: 200px;
+    color:  #fff;
+    text-shadow: -2px 2px 2px #000;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    font-weight: 600;
+    transform: translate(-50%, -50%);
+    
+}
+.banner
+{
+    height: 80vh;
+    background-image: url(images/header1.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    padding-top: 9%;
+}
+.banner-highlights
+{
+    padding: 70px 0;
+    background-color: rgba(0,0,0,0.4);
+    text-align: center;
+    color: #fff;
+}
+.booking-btn
+{
+    width: 120px;
+    padding: 8px 0;
+    outline: none !important;
+    border: 2px solid #fff;
+    border-radius: 50px;
+    background: transparent;
+    color: #fff;
+    margin-top: 20px;
+    
+}
+.booking-btn:hover
+{
+    background-color: #ff5722;
+    border: 2px solid #ff5722;
+}
+.residents-feedback{
+    padding: 100px 0;
+}
+.residents-review
+{
+    text-align: center;
+    box-shadow: 0 0 10px 0 rgba(0,0,100,0.2);
+    padding-bottom: 50px;
+}
+.residents-review img
+{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    position: relative;
+    margin: -30px 0 20px 40%;
+}
+.residents-review p::before
+{
+    content: '\201d';
+    display: block;
+    position: absolute;
+    font-size: 100px;
+
+    color: #6495ed;
+    font-family: sans-serif;
+    left: 44%;
+    top: -20%;
+}
+.footer 
+{
+    padding: 100px 20px;
+    background-image: linear-gradient(#2d557d,#9610fb);
+    color: #fff;
+}
+.footer-logo
+{
+    width: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.footer h4
+{
+    text-align: left;
+    margin-top: 15px;
+    padding-right: 25px;
+}
+.footer p
+{
+    font-size: 12px;
+    text-align: justify;
+    padding-right: 35px;
+}
+.footer hr
+{
+    margin-top: 10px;
+    background: #efefef;
+
+}
