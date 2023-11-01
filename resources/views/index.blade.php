@@ -13,7 +13,7 @@
 <section class="header">
         <div class="container">
         <img src="images/logo-removebg-preview.png" alt="real estates">
-        <button type="button" class="login-btn">login</button>
+        <a href="{{route('login')}}"><button type="button" class="login-btn">login</button></a>
         <h1 >Inhouse viewing</h1>
         <p>spacious bungalows around malibu estate to let with big spacious rooms free access to electricity and water is available 24/7 join us in our visit in our weekly customer exposure around the houses</p>
          <div class="input-group">
